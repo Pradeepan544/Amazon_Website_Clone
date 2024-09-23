@@ -13,11 +13,13 @@ Responsive Design: Optimized for various screen sizes, ensuring usability on bot
 
 ## 📸 Screenshots
 ### Home Page
-
-### Product Search
-
+![Home Page](screenshots/Home_page.png)
 ### Cart and Checkout
-
+![Cart](./screenshots/cart.png)
+### Orders
+![Orders](./screenshots/orders.png)
+### Tracking
+![Tracking](./screenshots/tracking.png)
 ## 💻 Tech Stack
 JavaScript: The backbone of this project, used for DOM manipulation and dynamic content rendering.
 HTML5 & CSS3: For the basic structure and styling of the application.
