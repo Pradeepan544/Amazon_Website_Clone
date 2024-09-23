@@ -15,7 +15,7 @@ Responsive Design: Optimized for various screen sizes, ensuring usability on bot
 ### Home Page
 ![Home Page](screenshots/Home_page.png)
 ### Cart and Checkout
-![Cart](./screenshots/cart.png)
+![Cart](./screenshots/Checkout.png)
 ### Orders
 ![Orders](./screenshots/orders.png)
 ### Tracking
